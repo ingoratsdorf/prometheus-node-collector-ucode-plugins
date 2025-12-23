@@ -1,4 +1,4 @@
-# prometheus_node_collector_ucode
+# prometheus-node-collector-ucode (Plugins)
 Collector modules for openwrt ucode prometheus collector
 
 ## thermal.uc
