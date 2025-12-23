@@ -1,5 +1,7 @@
 # prometheus-node-collector-ucode (Plugins)
-Collector modules for openwrt ucode prometheus collector
+Collector modules for openwrt ucode prometheus collector.
+
+Copy to `/usr/share/ucode/node-exporter/lib`.
 
 ## thermal.uc
 
