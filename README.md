@@ -14,3 +14,6 @@ node_scrape_collector_duration_seconds{collector="thermal"} 0.000943608
 node_scrape_collector_success{collector="thermal"} 1
 ```
 
+# Moved
+
+This repository has now moved to CodeBerg: https://codeberg.org/ingoratsdorf/prometheus-node-collector-ucode
